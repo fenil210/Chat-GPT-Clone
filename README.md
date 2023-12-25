@@ -42,7 +42,7 @@ Enjoy a visually appealing and customizable design with Tailwind CSS, following 
 #### do : npm install -D nodemon
 
 ### To run the server : npm run dev
-![server run dev](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/9b856fb4-41ed-4444-95ec-1156c0de826d)
+![image](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/800e886d-0148-43a7-8486-8296e0144133)
 
 
 
