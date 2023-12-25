@@ -16,7 +16,8 @@ A Chat-GPT clone project using React JS, Node JS, HTML, Tailwind CSS, and the Op
 Welcome to the Chat-GPT Clone project – a powerful and versatile chat application built with cutting-edge technologies. This project leverages React JS for the dynamic client-side interface, Node JS for the robust server backend, HTML for structured markup, Tailwind CSS for seamless styling, and integrates the OpenAI API for advanced natural language processing and utilization of OpenAI in the project.
 
 # Fenil-GPT
-![GUI](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/923dc92a-e66b-4a05-9746-36f3c8de0fbe)
+![GUI](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/67a49e96-a914-4195-bb81-f6cb47799599)
+
 
 
 # Interactive Conversations: 
@@ -41,7 +42,8 @@ Enjoy a visually appealing and customizable design with Tailwind CSS, following 
 #### do : npm install -D nodemon
 
 ### To run the server : npm run dev
-![server run dev](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/cf6f463e-f61e-468c-b335-f60eeacb9b8b)
+![server run dev](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/9b856fb4-41ed-4444-95ec-1156c0de826d)
+
 
 
 ### Client Dependencies
@@ -50,7 +52,8 @@ Enjoy a visually appealing and customizable design with Tailwind CSS, following 
 #### do : npm i react react-dom
 
 ### To run the client : npm run dev
-![client run dev](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/0b380555-6734-435c-a6ba-bab9915648f2)
+![client run dev](https://github.com/fenil210/Chat-GPT-Clone/assets/121050723/54ab2bf5-7811-453e-905e-59a5d61fee90)
+
 
 
 ### Tailwind CSS
